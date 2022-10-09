@@ -1,1 +1,2 @@
 Contenido 1 fichero 4
+Contenido 2 fichero 1 echo Contenido 2 fichero 2 echo Contenido 2 fichero 3 echo Contenido 2 fichero 4
